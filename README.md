@@ -12,7 +12,7 @@
 | 硬盘     | 西部数据 SATA固态硬盘 蓝盘 500G                  |
 | 集成显卡 | Intel GMA UHD 620                          |
 | 独立显卡 | NVIDIA GeForce MX250   无法驱动，通过ssdt屏蔽                       |
-| 声卡     | 瑞昱 ALC236                     |
+| 声卡     | Realtek ALC236   耳机麦克风已屏蔽，其他功能正常                  |
 | 无线网卡 | 更换为博通 BCM94360cs2 白苹果拆机免驱卡                   |
 | 有线网卡 | Realtek PCIe Ethernet Controller Driver                  |
 | 指纹    | Goodix Fingerprint Sensor Driver 无法驱动，通过定制usb屏蔽                        |
