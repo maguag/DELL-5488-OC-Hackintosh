@@ -1,6 +1,7 @@
 # DELL-5488-OC-Hackintosh
 ## 系统版本：Catalina 10.15.4 
 ## 引导版本：OpenCore 0.5.8
+### 加入白果开机音效（duang），不喜欢的在config里面关闭
 
 # 电脑配置
 | 规格     | 详细信息                                     |
@@ -18,3 +19,5 @@
 | 指纹    | Goodix Fingerprint Sensor Driver 无法驱动，通过定制usb屏蔽                        |
 | 摄像头  | UVC Camera 功能正常                        |
 | 读卡器  |Realtek Memory Card Reader Driver      通过usb定制功能正常                  |
+
+
