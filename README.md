@@ -1,7 +1,6 @@
 # DELL-5488-OC-Hackintosh
-## 系统版本：Catalina 10.15.4 
-## 引导版本：OpenCore 0.5.8
-### 加入白果开机音效（duang），不喜欢的在config里面关闭
+## 系统版本：Catalina 10.15.5 
+## 引导版本：OpenCore 0.5.9
 
 # 电脑配置
 | 规格     | 详细信息                                     |
