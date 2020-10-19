@@ -1,6 +1,5 @@
 # DELL-5488-OC-Hackintosh
-## 系统版本：Catalina 10.15.6 
-## 引导版本：OpenCore 0.6.0
+## 系统版本：Catalina 10.14.6 
 
 # 电脑配置
 | 规格     | 详细信息                                     |
