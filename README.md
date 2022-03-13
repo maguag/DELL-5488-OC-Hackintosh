@@ -1,5 +1,5 @@
 # DELL-5488-OC-Hackintosh
-## 系统版本：Catalina 10.14.6 
+
 
 # 电脑配置
 | 规格     | 详细信息                                     |
